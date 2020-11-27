@@ -91,7 +91,7 @@ body {
 .board.x .cell:not(.x):not(.circle):hover::before,
 .board.x .cell:not(.x):not(.circle):hover::after,
 .board.circle .cell:not(.x):not(.circle):hover::before {
-  background-color: lightgrey;
+  background-color:#ffffc2;
 }
 
 .cell.x::before,
